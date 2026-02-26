@@ -42,7 +42,13 @@ Prepared datasets were structured specifically for BI consumption.
 - Tenure-based retention trends  
 - Product holding vs retention correlation  
 - Balance segmentation matrix  
+## Dashboard Preview
 
+### Churn Overview
+![Churn Overview](images/churn_overview.png)
+
+### Retention Analysis
+![Retention Analysis](images/retention_analysis.png)
 ---
 
 ## 🎯 Business Questions Addressed
