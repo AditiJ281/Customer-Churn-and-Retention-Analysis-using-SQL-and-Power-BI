@@ -25,30 +25,14 @@ Prepared datasets were structured specifically for BI consumption.
 - Designed KPI-driven dashboard layout  
 - Built interactive filtering across geography, age, tenure, balance, and product holding  
 
----
-
-## 📊 Dashboard Structure
-
-### Churn Overview
-- Churn rate analysis  
-- Revenue at risk evaluation  
-- Geographic churn distribution  
-- Tenure and age-based churn segmentation  
-- Balance category analysis  
-
-### Retention Analysis
-- Retention rate tracking  
-- Retained revenue insights  
-- Tenure-based retention trends  
-- Product holding vs retention correlation  
-- Balance segmentation matrix  
+--- 
 ## Dashboard Preview
 
 ### Churn Overview
-![Churn Overview](https://github.com/AditiJ281/Customer-Churn-and-Retention-Analysis-using-SQL-and-Power-BI/blob/main/Dashboard1.png))
+![Churn Overview](https://github.com/AditiJ281/Customer-Churn-and-Retention-Analysis-using-SQL-and-Power-BI/blob/main/Dashboard1.png)
 
 ### Retention Analysis
-![Retention Analysis](images/retention_analysis.png)
+![Retention Analysis](https://github.com/AditiJ281/Customer-Churn-and-Retention-Analysis-using-SQL-and-Power-BI/blob/main/Dashboard2.png)
 ---
 
 ## 🎯 Business Questions Addressed
