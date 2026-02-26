@@ -45,7 +45,7 @@ Prepared datasets were structured specifically for BI consumption.
 ## Dashboard Preview
 
 ### Churn Overview
-![Churn Overview]([images/churn_overview.png](https://github.com/AditiJ281/Customer-Churn-and-Retention-Analysis-using-SQL-and-Power-BI/blob/main/Dashboard1.png))
+![Churn Overview](https://github.com/AditiJ281/Customer-Churn-and-Retention-Analysis-using-SQL-and-Power-BI/blob/main/Dashboard1.png))
 
 ### Retention Analysis
 ![Retention Analysis](images/retention_analysis.png)
